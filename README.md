@@ -1,10 +1,10 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Rakha%20Yuda%20Wicaksono&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Rakha Yuda Wicaksono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,100:2C5364&text=Rakha%20Yuda%20Wicaksono&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Software%20Engineer%20-%20Backend%20and%20Full-Stack%20Developer&descSize=18&descAlignY=62" alt="Rakha Yuda Wicaksono" width="100%"/>
 
 <a href="https://portofolio.rywtech.web.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+backend+systems+that+get+used+by+hundreds+of+people;REST+APIs+with+FastAPI+%26+Laravel;Computer+Vision+with+YOLO+%2B+PaddleOCR;Fresh+graduate+%7C+Cum+Laude+%7C+GPA+3.84%2F4.00;Currently+learning+.NET+10+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=1000&height=40&lines=Backend+systems+used+by+hundreds+of+people;REST+APIs+with+FastAPI+and+Laravel;Computer+Vision+with+YOLO+and+PaddleOCR;Fresh+graduate+-+Cum+Laude+-+GPA+3.84;Currently+learning+.NET+10" alt="Typing SVG" />
 </a>
 
 <br/>
