@@ -126,12 +126,22 @@ Databases, Data Structures & Algorithms, Framework-Based Programming, OOP, Mobil
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryunoo09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryunoo09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Ryunoo09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryunoo09&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/4FC3F7/Ryunoo09" alt="Contribution Chart" width="95%"/>
+
+<!--
+Kartu statistik & top languages (opsional). Server publik github-readme-stats.vercel.app
+sering penuh / terkena rate limit. Aktifkan lagi dengan menghapus tanda komentar ini
+SETELAH Anda men-deploy instance sendiri di Vercel, lalu ganti URL-nya:
+
+<img height="180" src="https://NAMA-APP-ANDA.vercel.app/api?username=Ryunoo09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://NAMA-APP-ANDA.vercel.app/api/top-langs/?username=Ryunoo09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+-->
+
+<img src="https://img.shields.io/github/followers/Ryunoo09?style=for-the-badge&logo=github&color=203A43" alt="Followers"/>
 
 </div>
 
